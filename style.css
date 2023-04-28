@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+.background{
+    background: rgba(0, 0, 0, 0.4) url(bg.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+    height: 100vh;
+}
